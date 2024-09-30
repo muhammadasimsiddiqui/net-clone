@@ -14,7 +14,6 @@
 - **React**: For building the user interface with reusable components.
 - **TMDB API**: To fetch data about movies and TV shows.
 - **Axios**: For making HTTP requests to the TMDB API.
-- **React Router**: For navigation between different pages.
 - **CSS Modules**: For styling components in a modular way.
 
 # Getting Started with Create React App
