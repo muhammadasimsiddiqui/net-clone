@@ -1,3 +1,22 @@
+# Netflix Clone
+
+## Project Overview
+**Netflix Clone** is a modern web application built with **React** that mimics the functionality of Netflix. Utilizing the **TMDB (The Movie Database) API**, this project allows users to browse, search, and view details about a wide variety of movies and TV shows. The application leverages React's state management, hooks (like `useEffect`), and component-based architecture to provide a responsive and interactive user experience.
+
+## Key Features
+- **Dynamic Movie & TV Show Listings**: Fetches and displays popular movies and TV shows from the TMDB API.
+- **Search Functionality**: Users can search for specific titles using a dedicated search bar.
+- **Responsive Design**: Built using CSS modules for a seamless experience across devices.
+- **Detailed View**: Clicking on a movie or show opens a detailed view with additional information.
+- **User Authentication**: (Optional) Implement user sign-up and login functionality.
+
+## Technologies Used
+- **React**: For building the user interface with reusable components.
+- **TMDB API**: To fetch data about movies and TV shows.
+- **Axios**: For making HTTP requests to the TMDB API.
+- **React Router**: For navigation between different pages.
+- **CSS Modules**: For styling components in a modular way.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
